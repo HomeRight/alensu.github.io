@@ -5,6 +5,16 @@
     <link>https://homeright.github.io/categories/</link>
     <description>Recent content in Categories on 老蘇的價值投資精神時光屋</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://homeright.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 May 2021 22:42:47 +0800</lastBuildDate><atom:link href="https://homeright.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go Language</title>
+      <link>https://homeright.github.io/categories/go-language/</link>
+      <pubDate>Sat, 29 May 2021 22:42:47 +0800</pubDate>
+      
+      <guid>https://homeright.github.io/categories/go-language/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

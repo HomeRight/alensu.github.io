@@ -2,6 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://homeright.github.io/categories/</loc>
+    <lastmod>2021-05-29T22:42:47+08:00</lastmod>
+  </url><url>
+    <loc>https://homeright.github.io/tags/game/</loc>
+    <lastmod>2021-05-29T22:42:47+08:00</lastmod>
+  </url><url>
+    <loc>https://homeright.github.io/categories/go-language/</loc>
+    <lastmod>2021-05-29T22:42:47+08:00</lastmod>
+  </url><url>
+    <loc>https://homeright.github.io/tags/html/</loc>
+    <lastmod>2021-05-29T22:42:47+08:00</lastmod>
+  </url><url>
+    <loc>https://homeright.github.io/tags/new/</loc>
+    <lastmod>2021-05-29T22:42:47+08:00</lastmod>
+  </url><url>
+    <loc>https://homeright.github.io/tags/photos/</loc>
+    <lastmod>2021-05-29T22:42:47+08:00</lastmod>
+  </url><url>
+    <loc>https://homeright.github.io/tags/python/</loc>
+    <lastmod>2021-05-29T22:42:47+08:00</lastmod>
+  </url><url>
+    <loc>https://homeright.github.io/tags/</loc>
+    <lastmod>2021-05-29T22:42:47+08:00</lastmod>
+  </url><url>
+    <loc>https://homeright.github.io/blog/post-1/</loc>
+    <lastmod>2021-05-29T22:42:47+08:00</lastmod>
+  </url><url>
+    <loc>https://homeright.github.io/post/post-1/</loc>
+    <lastmod>2021-05-29T22:42:47+08:00</lastmod>
+  </url><url>
+    <loc>https://homeright.github.io/</loc>
+    <lastmod>2021-05-29T22:42:47+08:00</lastmod>
+  </url><url>
     <loc>https://homeright.github.io/about/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
   </url><url>
@@ -16,12 +49,5 @@
   </url><url>
     <loc>https://homeright.github.io/search/</loc>
     <lastmod>2019-10-29T13:49:23+06:00</lastmod>
-  </url><url>
-    <loc>https://homeright.github.io/</loc>
-    <lastmod>2019-10-29T13:49:23+06:00</lastmod>
-  </url><url>
-    <loc>https://homeright.github.io/categories/</loc>
-  </url><url>
-    <loc>https://homeright.github.io/tags/</loc>
   </url>
 </urlset>
